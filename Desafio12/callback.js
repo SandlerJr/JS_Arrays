@@ -4,6 +4,7 @@ nomes.forEach(function (nome) {
   console.log(nome);
 });
 
+//outra maneira
 nomes.forEach((nome) => {
   console.log(nome);
 });
