@@ -11,7 +11,7 @@
 <p>Para inicializar o projeto precisa-se baixar a extensão Node.JS ou abrir no navegador e observar o comportamento pelo console(recomendado a primeira)</p>
 
 <H2>Implementações futuras</H2>
-<p>Aumetar o conteúdo disponivel</p>
+<p>Aumentar o conteúdo disponivel</p>
 
 <H2>Envolvidos:</H2>
 <H3>Professor:</H3>
